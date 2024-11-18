@@ -1,4 +1,4 @@
-public class SimpleSum {
+public class Hello {
     public static void main(String[] args) {
         // Declare two numbers
         int num1 = 10;
